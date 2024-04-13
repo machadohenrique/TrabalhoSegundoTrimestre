@@ -6,8 +6,8 @@ Com o aumento do acesso à informação e ao entretenimento digital, a demanda p
 O objetivo deste trabalho é capacitar os alunos a projetar, implementar e avaliar um sistema de recomendação de livros que seja capaz de fornecer sugestões personalizadas aos usuários com base em seus interesses e preferências de leitura.
 # Etapas do Projeto:
 __Coleta de Dados:__  
-Os alunos devem adquirir um conjunto de dados contendo informações sobre livros, como título, autor, gênero, sinopse, avaliações dos usuários, entre outros.
-__Construção do Modelo de Recomendação:__
-Utilizando a biblioteca Tensor Flow, os alunos devem projetar e implementar o modelo de recomendação. Uma abordagem comum é a utilização de técnicas de aprendizado profundo, como redes neurais, para capturar padrões complexos nos dados e gerar recomendações mais precisas. 
-__Treinamento do Modelo:__
+Os alunos devem adquirir um conjunto de dados contendo informações sobre livros, como título, autor, gênero, sinopse, avaliações dos usuários, entre outros.  
+__Construção do Modelo de Recomendação:__  
+Utilizando a biblioteca Tensor Flow, os alunos devem projetar e implementar o modelo de recomendação. Uma abordagem comum é a utilização de técnicas de aprendizado profundo, como redes neurais, para capturar padrões complexos nos dados e gerar recomendações mais precisas.   
+__Treinamento do Modelo:__  
 O modelo de recomendação deve ser treinado utilizando o conjunto de dados preparado na etapa anterior. 
