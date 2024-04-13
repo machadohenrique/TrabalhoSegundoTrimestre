@@ -1,4 +1,4 @@
-Desenvolvimento de um Sistema de Recomendação de Livros utilizando TensorFlow
+# Desenvolvimento de um Sistema de Recomendação de Livros utilizando TensorFlow
 # Introdução
 Com o aumento do acesso à informação e ao entretenimento digital, a demanda por sistemas de recomendação eficazes tem crescido significativamente. No contexto de livros, os leitores muitas vezes se deparam com uma vasta gama de opções, o que pode tornar a escolha do próximo livro a ser lido uma tarefa desafiadora. Neste trabalho, propomos o desenvolvimento de um sistema de recomendação de livros baseado em inteligência artificial (IA), utilizando a biblioteca Tensor Flow, que é amplamente reconhecida pela sua eficácia em tarefas de aprendizado de máquina e aprendizado profundo.
 # Objetivo:
