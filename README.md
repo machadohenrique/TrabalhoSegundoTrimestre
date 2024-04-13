@@ -7,7 +7,7 @@ O objetivo deste trabalho é capacitar os alunos a projetar, implementar e avali
 # Etapas do Projeto:
 __Coleta de Dados:__  
 Os alunos devem adquirir um conjunto de dados contendo informações sobre livros, como título, autor, gênero, sinopse, avaliações dos usuários, entre outros.
-__Construção do Modelo de Recomendação:__
+#__Construção do Modelo de Recomendação:__
 Utilizando a biblioteca Tensor Flow, os alunos devem projetar e implementar o modelo de recomendação. Uma abordagem comum é a utilização de técnicas de aprendizado profundo, como redes neurais, para capturar padrões complexos nos dados e gerar recomendações mais precisas. 
 __Treinamento do Modelo:__
 O modelo de recomendação deve ser treinado utilizando o conjunto de dados preparado na etapa anterior. 
